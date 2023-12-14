@@ -1,3 +1,6 @@
+import ertekel
+
+
 import pogasz1
 
 print("III/A, B: ")
